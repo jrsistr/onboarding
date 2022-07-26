@@ -29,7 +29,7 @@ onboarding into chop computing resources
   
 	c) Fileshare to access the microbiome drive (/mnt/isilon/microbiome/)
 
-You will receive an email once given access to the HPC and fileshare. 
+** You will receive an email once given access to the HPC and fileshare. 
 
 5) Download verizon VM or access desktop version to access respublica
   
@@ -41,7 +41,7 @@ You will receive an email once given access to the HPC and fileshare.
   
 	d) Select Terminal
 
-To access Intranet using a VPN (instead of Citrix Workspace):
+** To access Intranet using a VPN (instead of Citrix Workspace):
 
 6) Download AnyConnect VPN (only use the app from the Apple store)
   
