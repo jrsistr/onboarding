@@ -49,4 +49,4 @@ onboarding into chop computing resources
   
 	b) access Intranet on a normal browser
   
-	c) access Respublica via Horizon VM desktop app or via browser at the following address: beyond.chop.edu
+	c) access Respublica via Horizon VM desktop app or via browser at beyond.chop.edu
