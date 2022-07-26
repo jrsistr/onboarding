@@ -27,7 +27,9 @@ You will receive an email once given access to the HPC and fileshare.
   c) Select Activities
   d) Select Terminal
 
-To access Intranet using a VPN:
+To access Intranet using a VPN (instead of Citrix Workspace):
 
 6) Download AnyConnect VPN (only use the app from the Apple store)
   a) set server name to remote.chop.edu
+  b) access Intranet on a normal browser
+  c) access Respublica via Horizon VM desktop app or via browser at the following address: beyond.chop.edu
