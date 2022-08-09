@@ -50,3 +50,9 @@ onboarding into chop computing resources
 		b) access Intranet on a normal browser
 
 		c) access Respublica via Horizon VM desktop app or via browser at beyond.chop.edu
+		
+7. Access to GlobalScape file transfer system
+		
+		a) Register for an account
+		
+		b) Request Isilon directory be accessible in GlobalScape (from Arlen Enoch)
