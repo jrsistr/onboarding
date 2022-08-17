@@ -53,6 +53,6 @@ onboarding into chop computing resources
 		
 7. Access to GlobalScape file transfer system
 		
-		a) Register for an account
+		a) Register for an account to upload data (chop.service-now.edu)
 		
 		b) Request Isilon directory be accessible in GlobalScape (from Arlen Enoch)
